@@ -14,6 +14,6 @@ Horiseon is a tool which people who just started their business can use to optim
 To deploy this project run
 
 ```bash
-  npm run deploy
+  https://luisgcodes.github.io/horiseon/
 ```
 
